@@ -17,9 +17,9 @@ In this programming challenge, I aim to solve a programming problem every day to
 
 <!-- Update the table below with your daily progress -->
 
-| Day | Date       | Problems Solved | Concepts Learned | Thoughts                                              |
-| --- | ---------- | -------------- | ---------------- | ----------------------------------------------------- |
-| ... | ...        | ...            | ...              | ...                                                   |
+| **Day**   | **Date**       | **Problems Solved** | **Concepts Learned** | **Thoughts**                                               |
+| ---       | ----------     | --------------      | ----------------     |     ----------------------------------------------------   |
+| Day 0     | 08-06-2023     |       0             | Pair in STL C++      | Learning about STL library and tried solving a problem     |
 
 
 ## Profiles
