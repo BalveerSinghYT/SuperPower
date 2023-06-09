@@ -20,6 +20,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | **Day**   | **Date**       | **Problems Solved** | **Concepts Learned** | **Thoughts**                                               |
 | ---       | ----------     | --------------      | ----------------     |     ----------------------------------------------------   |
 | Day 0     | 08-06-2023     |       0             | Pair in STL C++      | Learning about STL library and tried solving a problem     |
+| Day 1     | 09-06-2023     |       0             | [LinkedList](https://github.com/BalveerSinghYT/DSA/tree/main/LinkedList) in C++  | Learned to create LinkedList in C++ & insertion operations |
 
 
 ## Profiles
