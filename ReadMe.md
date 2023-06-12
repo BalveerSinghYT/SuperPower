@@ -23,6 +23,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 1     | 09-06-2023     |       0             | [LinkedList](https://github.com/BalveerSinghYT/DSA/tree/main/LinkedList) in C++  | Learned to create LinkedList in C++ & insertion operations |
 | Day 2     | 10-06-2023     |       1             | Roman to Integer     | [code](https://leetcode.com/problems/roman-to-integer/solutions/3622898/my-learning-of-the-day2/) Solved leetcode problem |
 | Day 3     | 11-06-2023     |       1             | GCD, Sorting in Linked List | Participated in Weekly contest of GFG & solved one problem out of 3 |
+| Day 4     | 12-06-2023     |       1             | Add to Numbers in LL | Solved one linked list questions |
 
 
 
