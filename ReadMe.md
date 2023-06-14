@@ -25,6 +25,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 3     | 11-06-2023     |       1             | GCD, Sorting in Linked List | Participated in Weekly contest of GFG & solved one problem out of 3 |
 | Day 4     | 12-06-2023     |       1             | Add to Numbers in LL | Solved one linked list questions |
 | Day 5     | 13-06-2023     |       2             | Linked List | Solved insertion in middle & searching node at given position problems on GFG |
+| Day 6     | 14-06-2023     |       1             | Nth node from end of linked list | Now, I'm confident about the singly linked list. Today I solved the problem in first submission having 1113 test cases.|
 
 
 
