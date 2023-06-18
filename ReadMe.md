@@ -29,6 +29,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 7     | 15-06-2023     |       3             | Linked List | Solved problems related to deletion of a node in Linkedlist |
 | Day 8     | 16-06-2023     |       0             | Linked List | Tried Learning the concept of Rcursion in LL  |
 | Day 9     | 17-06-2023     |       0             | Stack | Learning the Stack Data Structure  |
+| Day 10    | 18-06-2023     |       1             | Weight Problem | Participated in the weekly GFG contest & solved one problem in 1st attempt.   |
 
 
 
