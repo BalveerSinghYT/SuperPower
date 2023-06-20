@@ -31,6 +31,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 9     | 17-06-2023     |       0             | Stack | Learning the Stack Data Structure  |
 | Day 10    | 18-06-2023     |       1             | Weight Problem | Participated in the weekly GFG contest & solved one problem in 1st attempt.   |
 | Day 11    | 19-06-2023     |       0             | Linked List | Made proper notes of LinkedList and learning about doubly linkedlist  |
+| Day 12    | 20-06-2023     |       11            | HackerRank C++ | Solved several basic problems and gained silver badge in C++ and Python  |
 
 
 
@@ -40,6 +41,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 
 - [Leet Code](https://leetcode.com/BalveerSinghYT/)
 - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/balveersinghyt/)
+- [HackerRank](https://www.hackerrank.com/balveersinghyt) 
 
 ## Contribution
 
