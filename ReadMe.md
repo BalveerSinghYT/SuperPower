@@ -32,7 +32,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 10    | 18-06-2023     |       1             | Weight Problem | Participated in the weekly GFG contest & solved one problem in 1st attempt.   |
 | Day 11    | 19-06-2023     |       0             | Linked List | Made proper notes of LinkedList and learning about doubly linkedlist  |
 | Day 12    | 20-06-2023     |       11            | HackerRank C++ | Solved several basic problems and gained silver badge in C++ and Python  |
-
+| Day 13    | 21-06-2023     |       6             | HackerRank Problem Solving | Solved LinkedList problems in C++ and gained 1st star⭐.   |
 
 
 ## Profiles
