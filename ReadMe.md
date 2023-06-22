@@ -33,6 +33,7 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 11    | 19-06-2023     |       0             | Linked List | Made proper notes of LinkedList and learning about doubly linkedlist  |
 | Day 12    | 20-06-2023     |       11            | HackerRank C++ | Solved several basic problems and gained silver badge in C++ and Python  |
 | Day 13    | 21-06-2023     |       6             | HackerRank Problem Solving | Solved LinkedList problems in C++ and gained 1st star⭐.   |
+| Day 14    | 22-06-2023     |       3             | HackerRank Problem Solving | Solved basic vector related problems in C++.   |
 
 
 ## Profiles
