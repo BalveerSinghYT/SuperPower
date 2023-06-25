@@ -35,6 +35,8 @@ In this programming challenge, I aim to solve a programming problem every day to
 | Day 13    | 21-06-2023     |       6             | HackerRank Problem Solving | Solved LinkedList problems in C++ and gained 1st star⭐.   |
 | Day 14    | 22-06-2023     |       3             | HackerRank Problem Solving | Solved basic vector related problems in C++.   |
 | Day 15    | 23-06-2023     |       1             | HackerRank + Linked List | Solved basic vector related problems in C++ & learned about doubly Linked List |
+| Day 16    | 24-06-2023     |       1             | LeetCode Contest | Solved one question in bi-weekly contest |
+| Day 17    | 25-06-2023     |       1             | Doubly Linked List + Contest | Solved doubly linked list question & participated in contests. |
 
 
 ## Profiles
